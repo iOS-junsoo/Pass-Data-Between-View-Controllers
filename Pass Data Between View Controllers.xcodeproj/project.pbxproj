@@ -13,6 +13,7 @@
 		992DBAAC26F6010B00D9BD20 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 992DBAAA26F6010B00D9BD20 /* Main.storyboard */; };
 		992DBAAE26F6010C00D9BD20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 992DBAAD26F6010C00D9BD20 /* Assets.xcassets */; };
 		992DBAB126F6010C00D9BD20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 992DBAAF26F6010C00D9BD20 /* LaunchScreen.storyboard */; };
+		992DBAB926F6FDD200D9BD20 /* OtherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 992DBAB826F6FDD200D9BD20 /* OtherViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		992DBAAD26F6010C00D9BD20 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		992DBAB026F6010C00D9BD20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		992DBAB226F6010C00D9BD20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		992DBAB826F6FDD200D9BD20 /* OtherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtherViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				992DBAA426F6010B00D9BD20 /* AppDelegate.swift */,
 				992DBAA626F6010B00D9BD20 /* SceneDelegate.swift */,
 				992DBAA826F6010B00D9BD20 /* ViewController.swift */,
+				992DBAB826F6FDD200D9BD20 /* OtherViewController.swift */,
 				992DBAAA26F6010B00D9BD20 /* Main.storyboard */,
 				992DBAAD26F6010C00D9BD20 /* Assets.xcassets */,
 				992DBAAF26F6010C00D9BD20 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				992DBAA926F6010B00D9BD20 /* ViewController.swift in Sources */,
+				992DBAB926F6FDD200D9BD20 /* OtherViewController.swift in Sources */,
 				992DBAA526F6010B00D9BD20 /* AppDelegate.swift in Sources */,
 				992DBAA726F6010B00D9BD20 /* SceneDelegate.swift in Sources */,
 			);
